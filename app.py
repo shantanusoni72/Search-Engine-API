@@ -45,6 +45,3 @@ def search():
         }
     
     return results
-
-if __name__ == '__main__':
-    app.run()
